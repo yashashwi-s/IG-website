@@ -6,10 +6,33 @@ sitemap: false
 permalink: /project
 ---
 
-
 # Projects
 
-## Group highlights
+## Group Highlights
+
+## 2024
+
+{% assign number_printed_2024 = 0 %}
+{% for publi in site.data.publist %}
+{% if publi.year == 2024 and number_printed_2024 < 2 %}
+
+<div class="row">
+  <div class="col-sm-6 clearfix">
+    <pubtit><strong><a href="{{ site.url }}{{ site.baseurl }}{{ publi.link.url }}">{{ publi.title }}</a></strong></pubtit>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+    <p>{{ publi.description }}</p>
+    <p><a href="{{ publi.authorsurl }}"><em>{{ publi.authors }}</em></a></p>
+    <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  </div>
+</div>
+
+{% assign number_printed_2024 = number_printed_2024 | plus: 1 %}
+{% endif %}
+{% endfor %}
+
+<hr>
+
+## 2021
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -49,4 +72,4 @@ permalink: /project
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-<hr>
+<hr> 

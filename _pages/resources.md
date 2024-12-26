@@ -1,90 +1,74 @@
 ---
-title: "COPS IG - Resources"
-layout: piclay
-excerpt: "COPS IG -- Resources"
+title: "Resources"
+layout: default
 permalink: /resources
 ---
 
-# Pictures
+# Resources
 
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Explore our curated list of resources to help you learn and grow in various domains.
 
-## Leiden
+---
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
+## CSoC 2024
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+### 🚀 Week 0: Introduction to Machine Learning and Python
 
-#### Gallery
+Kickstart your journey into Machine Learning with Python! In Week 0, we covered:
+- Python Basics
+- Key ML Libraries: NumPy, Pandas, and Matplotlib
+- Linear Regression
+- Logistic Regression
 
-(Right-click _'view image'_ to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+🎯 **Task 0**: Apply ML concepts and perform Exploratory Data Analysis on real-life datasets.  
+[View detailed resources and tasks on Notion](https://daisy-link-44a.notion.site/CSoC-24-IG-Week-0-Your-Adventure-in-Machine-Learning-Kicks-Off-Here-be6a6aa532e34fc4b555c0d6ce988e04)
 
-{% assign even_odd = number_printed | modulo: 4 %}
+---
 
-{% if even_odd == 0 %}
+### 🚀 Week 1: Dive into Neural Networks and ML Frameworks
 
-<div class="row">
-{% endif %}
+Explore the fundamentals of Neural Networks and dive into popular ML frameworks! In Week 1, we covered:
+- Neural Network (NN) Basics
+- Frameworks: PyTorch and TensorFlow
+- Back Propagation  
 
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
+🎯 **Task 1**: Build your own NN from scratch using your knowledge of math and coding.  
+[View detailed resources and tasks on Notion](https://www.notion.so/CSoC-24-IG-Week-1-Diving-Deeper-with-Neural-Networks-06baf724cc07427ea0f6524276c153a8)
 
-{% assign number_printed = number_printed | plus: 1 %}
+---
 
-{% if even_odd > 2 %}
+### 🚀 Week 2: Frameworks for Machine Learning
 
-</div>
-{% endif %}
+Master the foundational ML frameworks! In Week 2, we covered:
+- PyTorch and TensorFlow frameworks and their applications  
 
-{% endfor %}
+🎯 **Task**: Build your own NN using either PyTorch or TensorFlow.  
+[View detailed resources and tasks on Notion](https://lacy-penalty-234.notion.site/CSOC-ML-Week-2-Enter-the-TensorFlow-Realm-544fcff786c649788aa416c0b61f4414)
 
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
+---
 
-</div>
-{% endif %}
+### 🚀 Week 3: Domain Selection for Specialization
 
-{% if even_odd == 2 %}
+Choose a domain to focus on for the next two weeks! The options include:
+- **Natural Language Processing (NLP)**: Explore text and language data.
+- **Computer Vision (CV)**: Understand how machines interpret visual inputs.
+- **Data Science (DS)**: Extract insights and knowledge from data.
+- **Reinforcement Learning (RL)**: Train agents to make optimal decisions.  
 
-</div>
-{% endif %}
+All domain-specific resources and guidance are provided on Notion.  
+[View the domain selection guide on Notion](https://lacy-penalty-234.notion.site/CSOC-Week-3-Choose-Your-Own-Adventure-1479296f38fb46e9b6a3163148d73590?pvs=4)
 
-{% if even_odd == 3 %}
+---
 
-</div>
-{% endif %}
+### 🚀 Week 4: Final Week - Project Development
 
-<p> &nbsp; </p>
+Continue exploring and refining your project in the domain selected during Week 3. Use this week to consolidate your knowledge and complete your project.  
 
-First advertisement.
+All domain-specific resources and guidance are provided on Notion.  
+[View the final week guide on Notion](https://lacy-penalty-234.notion.site/CSOC-Week-4-b12b0b7dc4e54abd9bb23dada127d425)
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
+---
 
-## ETHZ
+Let's embark on this focused learning journey together!  
+Happy learning!
 
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>

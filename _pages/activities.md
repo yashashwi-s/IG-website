@@ -21,6 +21,6 @@ Dive into hands-on sessions and unlock the secrets of AI, ML, and beyond!
 
 ### Past Workshops
 - **Python** - Dec 21, 2024
-- **Linear and Logistic** - Dec 26, 2024
+- **Linear and Logistic Regression** - Dec 26, 2024
 
 ---

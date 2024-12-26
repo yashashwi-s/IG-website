@@ -1,0 +1,32 @@
+- title: "Explainable AI: Evolution And Current Advancements"
+  description: "Imagine a world where machines make decisions but we have no idea how and why? Sounds risky right? Enter Explainable AI (XAI)—the bridge between complex machine learning models and human understandings."
+  authors: "Dinesh Sahoo"
+  authorsurl: "https://www.linkedin.com/in/dinesh-sahoo126/"
+  year: 2024
+  link:
+    url: https://blogs.copsiitbhu.co.in/explainable-ai-evolution-and-current-advancements
+
+- title: "Rise of XG Boost : Tree Trimming Tales"
+  description: "Dive into how the most popular Data Science Algorithm , XGBoost is internally implemented and unfold it's secrets , the pinnacle of classical Machine Learning , System design and algorithm design."
+  authors: "Parth"
+  authorsurl: "https://www.linkedin.com/in/parth-dabas-392445231/"
+  year: 2024
+  link:
+    url: https://blogs.copsiitbhu.co.in/rise-of-xg-boost-tree-trimming-tales
+
+- title: "AlphaZero - A Revolution in Game AI"
+  description: "Explore the revolutionary AlphaZero by DeepMind, which transforms game AI through reinforcement learning. Unlike traditional systems, AlphaZero masters complex games like chess and Go from scratch using self-play, deep neural networks, and Monte Carlo Tree Search. This concise overview highlights its innovative architecture and training methods, showcasing how AlphaZero redefines game AI and strategic decision-making."
+  authors: "Yashashwi Singhania"
+  authorsurl: "https://github.com/yashashwi-s"
+  year: 2024
+  link:
+    url: https://blogs.copsiitbhu.co.in/alphazero-a-revolution-in-game-ai
+
+- title: "Exploring Meta Reinforcement Learning"
+  description: "Ever wondered how machines can learn and adapt to new tasks with minimal retraining? Explore how meta reinforcement learning allows AI systems to evolve across different tasks and drastically reduce retraining time."
+  authors: "Aman Dhingra"
+  authorsurl: "https://www.linkedin.com/in/aman-dhingra-7471b1288"
+  year: 2024
+  link:
+    url: https://blogs.copsiitbhu.co.in/exploring-meta-reinforcement-learning
+  

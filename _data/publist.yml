@@ -19,7 +19,7 @@
   highlight: 1
 
 - title: "Hackathon Scraper"
-  image: hackathon-scraper.jpg
+  image: hackathon.webp
   description: "These days it is very hard to keep up with all the hackathons happening here out Hackathon Scraper comes to help. We have used tools like selenium to automate a web browser and search hackathon websites and other sources to get information of new Hackathons. Information gathered from these sources is then passed to an LLM model (currently we are using gemini API) to extract data like dates of hackathon and registration link etc.. This information is presented to the user in a structered format through a website."
   authors: "Shashank Shekhar Singh"
   authorsurl: "https://github.com/Shashankss1205"
@@ -29,7 +29,7 @@
   highlight: 1
 
 - title: "OA Question Bank"
-  image: oaquestionbank.jpg
+  image: oaquestionbank.webp
   description: "This project focuses on streamlining the curation of Online Assessment (OA) questions by utilizing Machine Learning techniques to extract text from collected question images and compile them into a structured database. A dedicated web platform has been developed to allow users to upload OA images, which are processed to update and expand our question repository. This initiative aims to provide future students reliable resource for accessing and analyzing previously asked questions in an efficient manner."
   authors: "Shashank Shekhar Singh"
   authorsurl: "https://github.com/Shashankss1205"

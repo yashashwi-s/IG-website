@@ -56,8 +56,6 @@ permalink: /project
 {% endif %}
 <hr> 
 
-<hr>
-
 ## 2021
 
 {% assign number_printed = 0 %}

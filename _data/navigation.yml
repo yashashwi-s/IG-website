@@ -1,27 +1,41 @@
+# - title: Home
+#   url:
+# - title: People
+#   url: people
+# - title: Projects
+#   url: project
+# - title: Resources
+#   url: /
+#   sublinks:
+#       - title: AI Roadmap
+#         url: roadmap
+#       - title: AI Exercise
+#         url: excercise
+#       - title: AI/ML/Data Science Roadmap for Beginners
+#         url: beginnersRoadmap
+# - title: Blogs
+#   url: /
+#   sublinks:
+#       - title: InterIIT
+#         url: interiit
+# - title: Activities
+#   url: /
+#   sublinks:
+#       - title: ML Talks
+#         url: mltalks
+#       - title: "RL and multiagent systems: paper reading group"
+#         url: paperread
+
 - title: Home
-  url:
+  url: 
 - title: People
   url: people
 - title: Projects
   url: project
 - title: Resources
-  url: /
-  sublinks:
-      - title: AI Roadmap
-        url: roadmap
-      - title: AI Exercise
-        url: excercise
-      - title: AI/ML/Data Science Roadmap for Beginners
-        url: beginnersRoadmap
+  url: resources
 - title: Blogs
-  url: /
-  sublinks:
-      - title: InterIIT
-        url: interiit
+  url: blogs
 - title: Activities
-  url: /
-  sublinks:
-      - title: ML Talks
-        url: mltalks
-      - title: "RL and multiagent systems: paper reading group"
-        url: paperread
+  url: activities
+

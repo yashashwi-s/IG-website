@@ -1,143 +1,202 @@
 
-- name: Niyati Srivastava
-  photo: Niyati.jfif
-  info: Natural Language Vision, Computer Vision, Data Science
-  website: <a href="https://www.linkedin.com/company/77235804/admin/">Linkedin</a>
-  email: niyati.srivastava.mec20@itbhu.ac.in
+- name: Vivek kumar
+  photo: Vivekkumar.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/vivek-kumar-18030621a">LinkedIn</a>
+  email: vivek.kumar.che23@itbhu.ac.in
+  number_educ: 1
+  education1: "Diving deep into the intricacies of AI, much like a CNN filter capturing every fine-grained detail."
 
-- name: Aditya Kumar
-  photo: AdityaKumar.jpg
+- name: Shivam Kumar Sah
+  photo: ShivamKumarSah.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/shivam-kumar-sah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: shivam.kumarsah.cd.mec23@itbhu.ac.in
+  number_educ: 1
+  education1: Always eager to learn and grow
+
+- name: Swayam Rajat Mohanty 
+  photo: SwayamRajatMohanty.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/swayam-mohanty-88573b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: swayamrajat.mohanty.eee22@itbhu.ac.in
+  number_educ: 1
+  education1: My primary areas of focus are CV and NLP. I’ve worked on diverse research projects, ranging from defect detection in solar panels to interpretability analysis in deep learning models.
+
+
+- name: Pranjal Kabra
+  photo: PranjalKabra.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/pranjal-kabra-ab96a4294">LinkedIn</a>
+  email: pranjal.kabra.mat23@itbhu.ac.in
+  number_educ: 1
+  education1: A complete nerd who is into math, ML and deep life talks at 2 am
+
+- name: Dhairya Arora
+  photo: DhairyaArora.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/dhairya-arora-0957b128a">LinkedIn</a>
+  email: dhairya.arora.cd.ece23@itbhu.ac.in
+  number_educ: 1
+  education1: Deeply interested in GANs, Diffusion models and related technologies, I am currently exploring transformers and multimodal RAG systems.
+
+- name: Garv Kaushik
+  photo: GarvKaushik.jpeg
+  info: Computer Vision
+  socials: <a href="https://in.linkedin.com/in/garv-kaushik-52278624b">LinkedIn</a>
+  email: garv.kaushik.mat22@itbhu.ac.in
+  number_educ: 1
+  education1: Intern at SketchX Labs. Loves to help dumb machines process what are our eyes to seem to capture so effortlessly using math as a cheat code. Works in 3D-CV, neural rendering and geometric deep learning.
+
+- name: Parishkriti Sharma
+  photo: ParishkritiSharma.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/parishkriti-sharma-0996012a6/">LinkedIn</a>
+  email: parishkriti.sharma.mat23@itbhu.ac.in
+  number_educ: 1
+  education1: I am a simple girl curious about complex things and fascinated by mathematical aspect of everything😊
+
+- name: Prajjwal Bajpai
+  photo: PrajjwalBajpai.jpeg
+  info: Data Science
+  socials: <a href="https://www.linkedin.com/in/prajjwal-bajpai-speed">LinkedIn</a>
+  email: prajjwal.bajpai.cd.mec23@itbhu.ac.in
+  number_educ: 1
+  education1: I'm exploring NLP and CV and have some knowledge of DS.
+
+- name: Soham Agarwal 
+  photo: SohamAgarwal.webp
+  info: Data Science
+  socials: <a href="https://www.linkedin.com/in/soham-agarwal-6129b423b">LinkedIn</a>
+  email: soham.agarwal.mec23@itbhu.ac.in
+  number_educ: 1
+  education1: I am exploring NLP and LLMs and grinding codeforces.
+
+- name: Aryansh Kumar 
+  photo: AryanshKumar.jpeg
+  info: Data Science
+  socials: <a href="https://www.linkedin.com/in/aryansh-kumar-5b733825b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: aryansh.kumar.ece22@itbhu.ac.in
+  number_educ: 1
+  education1: Turning data into stories, predictions into possibilities, and challenges into innovations—because why just solve problems when you can redefine the game?
+
+- name: Parth Dabas
+  photo: ParthDabas.jpeg
+  info: Data Science
+  socials: <a href="https://in.linkedin.com/in/parth-dabas-392445231">LinkedIn</a>
+  email: parth.dabas2004@gmail.com
+  number_educ: 1
+  education1: Hi, I'm Parth, a puzzle solver at heart and an algorithm enthusiast by trade. When not at my desk, I can be found engaged in football, binge-watching my favorite shows or trying random shenanigans with my friends. Let’s optimize the world, one step at a time!
+
+- name: Dinesh Sahoo 
+  photo: DineshSahoo.jpeg
+  info: Data Science
+  socials: <a href="https://www.linkedin.com/in/dinesh-sahoo126">LinkedIn</a>
+  email: dinesh.dsahoo.bce23@itbhu.ac.in
+  number_educ: 1
+  education1: Making Principal Components the life of the data party, unwrapping dimensions and turning high-dimensional chaos into a well-orchestrated dance floor of insights ;)
+
+- name: Sakshi Kumar
+  photo: SakshiKumar.png
   info: Natural Language Processing
-  website: <a href="https://arch-raven.github.io/">https://arch-raven.github.io/</a>
-  email: aditya.kumar.cer19@iitbhu.ac.in
-  number_educ: 2
-  education1: Former Intern at rephrase.ai
-  education2: Former Research Intern at IIT Patna
-
-- name: Yash Sahijwani
-  photo: YashSahijwani.jpg
-  website: <a href="https://terabyte17.github.io/">https://terabyte17.github.io/</a>
-  info: Computer Vision, Reinforcement Learning
-  email: yash.sahijwani.ece19@itbhu.ac.in
-  number_educ: 2
-  education1: Currently working on Computer Vision
-  education2: Incoming intern @ Wells Fargo
-
-- name: Aman Mishra
-  photo: AmanMishra.jpeg
-  website: <a href="https://amshra267.github.io/Amshra267_Website/">https://amshra267.github.io/</a>
-  info: Computer Vision, Data Science #and Design And Analysis of RL Algorithms
-  email: aman.mishra.ece19@itbhu.ac.in
-  number_educ: 2
-  education1: Currently Working as a Remote Research Intern in Canada
-  education2: Former Research Intern at Silence Laboratories
-
-- name: Lavish Bansal
-  photo: LavishBansal.jpeg
-  website: <a href="https://lavish619.github.io/">https://lavish619.github.io/</a>
-  info: Computer Vision, Adversarial ML
-  email: lavish.bansal.mat19@iitbhu.ac.in
-  number_educ: 2
-  education1: Research Intern, VAL, IISc - Working on Adversarial Robustness
-  education2: Summer Research internship, IIT Hyderabad - Worked on Semantic Segmentation for remote sensing Images
-
-- name: L N Saaswath
-  photo: LNSaaswath.jpg
-  info: Computer Vision, Computer Architecture, GANs
-  email: ln.saaswath.eee19@iitbhu.ac.in
-  website: <a href="https://www.linkedin.com/in/lnsaaswath/">Linkedin</a>
+  socials: <a href="https://www.linkedin.com/in/sakshi-kumar-173239284/">LinkedIn</a>
+  email: sakshi.kumar.cd.eee23@itbhu.ac.in
   number_educ: 1
-  education1: SRFP '21 - Discussion Forum Analysis
+  education1: ‘Run first, debug later’ mindset—whether I’m teaching models to learn or learning how to teach them. I keep ML simple code, coffee, and questioning my life choices when the loss spikes. Here for the vibes, vectors, and those ‘eureka’ moments.
 
-- name: Ayush Kumar Shaw
-  photo: AyushKumarShaw.jpg
-  info: Reinforcement Learning, Computer Vision
-  email: ayush.kumarshaw.ece19@iitbhu.ac.in
+- name: Aryan Prakhar
+  photo: AryanPrakhar.png
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/aryan-prakhar">LinkedIn</a>
+  email: aryan.prakhar.cd.civ22@iitbhu.ac.in
   number_educ: 1
-  education1: Upcoming Data Scientist At Microsoft Research
+  education1: Interned at OpenLocus.ai, collaborating with AllenAI researchers on data-driven scientific discovery with multi-agent systems; also contributed to Code4GovTech. Co-authored work for NeurIPS’24 and ICLR’25. Love exploring new places!
 
-- name: Vikhyath Venkatraman
-  photo: VikhyathVenkatraman.png
-  info: Computer Vision, Reinforcement Learning
-  email: vikhyath.pvenkatraman.ece19@iitbhu.ac.in
+- name: Shubham Mate 
+  photo: ShubhamMate.jpeg
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/shubham-mate-873544289/">LinkedIn</a>
+  email: mate.shubhamvijay.mat23@itbhu.ac.in
   number_educ: 1
-  education1: Upcoming Data Scientist At Microsoft Research
+  education1: I am interested in NLP, but also exploring other fields of AI including Computer Vision and Time Series
 
-- name: R Tharun Gowda
-  photo: Tharungowda.jpeg
-  website: <a href="https://rtharungowda.github.io/">https://rtharungowda.github.io/</a>
-  info: Reinforcement Learning, Computer Vision
-  email: rtharun.gowda.cd.ece19@iitbhu.ac.in
-  number_educ: 2
-  education1: Upcoming SWE Intern @ Salesforce
-  education2: Research Intern,Changwon National University  - Worked on object detection for advanced driver assistance system (ADAS).
+- name: Tanish Agarwal 
+  photo: TanishAgarwal.jpeg
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/tanish-agarwal-318024295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: tanish.agarwal.cd.che23@itbhu.ac.in
+  number_educ: 1
+  education1: A quirky explorer at heart, I dive into all sorts of things for the thrill of gaining diverse experiences. But when something truly resonates, my passion takes over, driving me to excel and make an impact.
 
-- name: Ayush Ishan
-  photo: unknown.jpeg
+- name: Bhaagyesh Sajja 
+  photo: BhaagyeshSajja.jpeg
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/bhaagyesh-sajja-5034ab251/">LinkedIn</a>
+  email: bhaagyesh.sajja.cd.cse22@itbhu.ac.in
+  number_educ: 1
+  education1: Hi, I'm Bhaagyesh, and I enjoy working with LLMs. More specifically, I've worked on multi-agent workflows,  tool reasoning methodologies, and VLM adaptability for user behavior understanding. When I'm not working, you’ll probably find me watching a sitcom, playing football, or fast asleep.
+
+- name: Ayushman Mishra
+  photo: AyushmanMishra.jpeg
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/ayushman-mishra-am">LinkedIn</a>
+  email: ayushman.mishra.cd.cse23@itbhu.ac.in
+  number_educ: 1
+  education1: I am passionate about natural language processing, mathematics, and computer science. I enjoy exploring abstract mathematical concepts and their applications to real-world problems and computing.
+
+- name: Prakhar Pratap Singh
+  photo: PrakharPratapSingh.jpeg
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/prakhar-pratap-singh-082a5625a">LinkedIn</a>
+  email: prakhar.pratapsingh.cd.cse22@itbhu.ac.in
+  number_educ: 1
+  education1: I am passionate about exploring the domains of NLP and enjoy building various architectures from scratch. I keep myself engaged with the latest research and blog posts, always eager to learn about new and exciting advancements in the field. 
+
+- name: Tejbir 
+  photo: Tejbir.jpeg
+  info: Natural Language Processing
+  socials: <a href="https://www.linkedin.com/in/tejbir-panghal-25298a289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: tejbir.student.che23@itbhu.ac.in
+  number_educ: 1
+  education1: It's a shame I wasn't born a Targaryen, destined to ride a dragon and claim the Iron Throne.
+
+- name: Yashashwi Singhania
+  photo: YashashwiSinghania.jpeg
   info: Reinforcement Learning
-  email: ayush.ishan.met20@iitbhu.ac.in
+  socials: <a href="https://www.linkedin.com/in/yashashwi-singhania-b500bb2a9/">LinkedIn</a>
+  email: yashashwi.singhania.bce23@iitbhu.ac.in
+  number_educ: 1
+  education1: I am interested in RL, specifically self-play optimisations and multi-agent systems.
+
+- name: Chirag Sindhwani
+  photo: ChiragSindhwani.jpeg
+  info: Reinforcement Learning
+  socials: <a href="https://www.linkedin.com/in/chirag-sindhwani-profile">LinkedIn</a>
+  email: chirag.sindhwani.cd.eee23@itbhu.ac.in
+  number_educ: 1
+  education1: Reinforcement Learning, Geometric Deep Learning. Currently a research intern at Texas Tech University focusing on graph networks
 
 
+- name: Aman Dhingra 
+  photo: AmanDhingra.jpeg
+  info: Reinforcement Learning
+  socials: <a href="https://www.linkedin.com/in/aman-dhingra-7471b1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: aman.dhingra.cse23@itbhu.ac.in
+  number_educ: 1
+  education1: Trying to do better
 
+- name: Manav Kumar Jalan 
+  photo: ManavKumarJalan.jpeg
+  info: Computer Vision
+  socials: <a href="https://www.linkedin.com/in/manav-kumar-jalan-3b8339292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+  email: Manav.krjalan.cd.phy23@itbhu.ac.in
+  number_educ: 1
+  education1: Hey, I’m Manav! Got free time to stalk our profiles? Anyway, I love turning random multidim points into images of ben10 roaming around L.T.3 —just with matrix multiplications. A true Physics worshiper, always chasing where it meets AI.
 
-
-
-
-
-
-
-
-
-# - name: Gijsbert Verdoes
-#   photo: verdoes.jpg
-#   duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-#   info: Fine mechanical engineer associated with the FMD working in our group
-#   email: verdoes@fmd.physics.leidenuniv.nl
-#   number_educ: 1
-#   education1: Leidse instrumentmakers School
-#   education2:
-#   education3:
-#   education4:
-
-# - name: Irene Battisti
-#   photo: irene.jpg
-#   info: PhD student
-#   duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-#   email: Battisti@Physics.LeidenUniv.nl
-#   number_educ: 3
-#   education1: Master Padova University
-#   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-#   education3: PhD Leiden University!
-
-# - name: Doohee Cho
-#   photo: Doohee2.jpg
-#   info: Postdoc
-#   duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
-#   email: cho@physics.leidenuniv.nl
-#   number_educ: 4
-#   education1: B.S. Yonsei University, Korea
-#   education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-#   education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-#   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-# - name: Maarten Leeuwenhoek
-#   photo: Maarten.png
-#   info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-#   email: M.Leeuwenhoek@tudelft.nl
-#   duration: In the Allan Lab December 2015 to February 2020, now design engineer at ASML
-#   number_educ: 1
-#   education1: Master Leiden University with Milan Allan
-#   education2:
-#   education3:
-#   education4:
-
-# - name: Freek Groenewoud
-#   photo: Freek.jpg
-#   info: Fine mechanical engineer (also associated with the FMD)
-#   email: Groenewoud@physics.leidenuniv.nl
-#   number_educ: 2
-#   duration: In the Allan Lab 2018 - 2020
-#   education1: Leidse Instrumentmaker School
-#   education2: Mechanical Engineer , Hogeschool  Delft
-#   education3:
-#   education4:
+- name: Siddanth Shetty
+  photo: SiddanthShetty.mpo
+  info: Data Science
+  socials: <a href="https://www.linkedin.com/in/siddanth-shetty-537360175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a>
+  email: siddanth.shetty.mat21@itbhu.ac.in
+  number_educ: 1
+  education1: My research interests include Data Science, Quant Finance, Physics Informed Machine Learning and Multimodal LLMs. In my free time I like to play basketball, quiz and read fiction. 
